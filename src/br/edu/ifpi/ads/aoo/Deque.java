@@ -41,6 +41,9 @@ public class Deque {
             }
         }
         
+        
+       
+        
         public void exibeDeque(){
             if(!this.cartas.isEmpty()){
                 for (Carta c:this.cartas) {
